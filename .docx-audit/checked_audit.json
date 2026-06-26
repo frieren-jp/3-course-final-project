@@ -1,0 +1,366 @@
+[
+  {
+    "label": "PM02_checked",
+    "path": "C:\\Users\\freezemyself\\Desktop\\3-course-final-project\\.docx-audit\\PM02_checked.docx",
+    "sections": 1,
+    "sectPr_count": 1,
+    "pgSz": {
+      "w": "11906",
+      "h": "16838",
+      "orient": "portrait"
+    },
+    "pgMar": {
+      "top": "1134",
+      "right": "567",
+      "bottom": "1134",
+      "left": "1701",
+      "header": "720",
+      "footer": "720",
+      "gutter": "0"
+    },
+    "xml_counts": {
+      "highlight": 0,
+      "shading": 1073,
+      "trHeight": 69,
+      "caps": 0,
+      "smallCaps": 0
+    },
+    "major": [
+      {
+        "idx": 41,
+        "text": "ЗАДАНИЕ",
+        "block_start_idx": 38,
+        "block_break_before": false
+      },
+      {
+        "idx": 66,
+        "text": "ДНЕВНИК",
+        "block_start_idx": 63,
+        "block_break_before": true
+      },
+      {
+        "idx": 81,
+        "text": "АТТЕСТАЦИОННЫЙ ЛИСТ",
+        "block_start_idx": 77,
+        "block_break_before": false
+      },
+      {
+        "idx": 100,
+        "text": "ХАРАКТЕРИСТИКА",
+        "block_start_idx": 97,
+        "block_break_before": true
+      },
+      {
+        "idx": 125,
+        "text": "ОТЧЕТ",
+        "block_start_idx": 122,
+        "block_break_before": true
+      }
+    ],
+    "report_body_issue_count": 1,
+    "report_body_sample": [
+      {
+        "idx": 126,
+        "text": "о прохождении учебной практики ПМ02",
+        "alignment": "CENTER (1)",
+        "line_spacing": 1.15,
+        "first_line_indent_cm": 0.0,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 129,
+        "text": "1. Разрабатывал требования к программным модулям на основе анализа проектной и т",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 130,
+        "text": "В ходе практики был разработан проект EXOFLORA — веб-приложение-энциклопедия экз",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 131,
+        "text": "Клиентская часть размещена в каталоге exoflowers-client и реализована на React +",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 132,
+        "text": "Основные модули интерфейса разделены по назначению: pages/HomePage.jsx содержит ",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 133,
+        "text": "API-слой клиента вынесен в модуль src/api/plantsApi.js. Он содержит функции fetc",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 134,
+        "text": "Серверная часть размещена в каталоге exoflowers-server. Файл src/server.js созда",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 135,
+        "text": "В проекте не использовалась классическая объектно-ориентированная иерархия класс",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 136,
+        "text": "Алгоритм взаимодействия модулей можно представить так: пользователь вводит поиск",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 139,
+        "text": "2. Выполнял интеграцию модулей в программное обеспечение",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 140,
+        "text": "Интеграция модулей выполнялась на уровне клиентской части, серверной части и обм",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 141,
+        "text": "На клиенте были подключены библиотеки react, react-dom и react-router-dom. React",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      }
+    ]
+  },
+  {
+    "label": "PM11_checked",
+    "path": "C:\\Users\\freezemyself\\Desktop\\3-course-final-project\\.docx-audit\\PM11_checked.docx",
+    "sections": 1,
+    "sectPr_count": 1,
+    "pgSz": {
+      "w": "11906",
+      "h": "16838",
+      "orient": "portrait"
+    },
+    "pgMar": {
+      "top": "1134",
+      "right": "567",
+      "bottom": "1134",
+      "left": "1701",
+      "header": "720",
+      "footer": "720",
+      "gutter": "0"
+    },
+    "xml_counts": {
+      "highlight": 0,
+      "shading": 780,
+      "trHeight": 64,
+      "caps": 0,
+      "smallCaps": 0
+    },
+    "major": [
+      {
+        "idx": 40,
+        "text": "ЗАДАНИЕ",
+        "block_start_idx": 37,
+        "block_break_before": false
+      },
+      {
+        "idx": 66,
+        "text": "ДНЕВНИК",
+        "block_start_idx": 63,
+        "block_break_before": true
+      },
+      {
+        "idx": 81,
+        "text": "АТТЕСТАЦИОННЫЙ ЛИСТ",
+        "block_start_idx": 77,
+        "block_break_before": true
+      },
+      {
+        "idx": 101,
+        "text": "ХАРАКТЕРИСТИКА",
+        "block_start_idx": 98,
+        "block_break_before": true
+      },
+      {
+        "idx": 123,
+        "text": "ОТЧЕТ",
+        "block_start_idx": 120,
+        "block_break_before": true
+      }
+    ],
+    "report_body_issue_count": 1,
+    "report_body_sample": [
+      {
+        "idx": 124,
+        "text": "о прохождении учебной практики ПМ11",
+        "alignment": "CENTER (1)",
+        "line_spacing": 1.15,
+        "first_line_indent_cm": 0.0,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 128,
+        "text": "1. Осуществлял сбор, обработку и анализ информации для проектирования баз данных",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 129,
+        "text": "В ходе практики была проанализирована предметная область проекта EXOFLORA - веб-",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 130,
+        "text": "На этапе анализа были выделены данные, необходимые для хранения: имя пользовател",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 131,
+        "text": "Для проектирования были определены связи между сущностями. Одно растение относит",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 132,
+        "text": "При анализе ограничений были выделены первичные ключи id для всех таблиц, уникал",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 133,
+        "text": "2. Проектировал базу данных на основе анализа предметной области, разрабатывал о",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 134,
+        "text": "На основе анализа была подготовлена реляционная модель базы данных. В проектной ",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 136,
+        "text": "Рисунок 1 - ER-диаграмма базы данных EXOFLORA",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 137,
+        "text": "SQL-скрипт создания структуры базы данных был оформлен в файле exotic_plants_dat",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 138,
+        "text": "Таблица users содержит поля id, username, email, password и role. Поле email име",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      },
+      {
+        "idx": 139,
+        "text": "Таблица categories содержит справочник категорий растений. Таблица plants хранит",
+        "alignment": "JUSTIFY (3)",
+        "line_spacing": 1.5,
+        "first_line_indent_cm": 1.251,
+        "space_before_pt": 0.0,
+        "space_after_pt": 0.0,
+        "issues": []
+      }
+    ]
+  }
+]

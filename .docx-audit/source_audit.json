@@ -1,0 +1,841 @@
+[
+  {
+    "label": "PM02_source",
+    "path": "C:\\Users\\freezemyself\\Desktop\\3-course-final-project\\.docx-audit\\PM02_source.docx",
+    "paragraphs": 178,
+    "tables": 9,
+    "sections": 0,
+    "sectPr_count": 0,
+    "pgSz": {},
+    "pgMar": {},
+    "xml_counts": {
+      "highlight": 0,
+      "shading": 1074,
+      "trHeight": 69,
+      "caps": 0,
+      "smallCaps": 0
+    },
+    "styles_counts": {
+      "highlight": 0,
+      "shading": 0
+    },
+    "major": [
+      {
+        "idx": 41,
+        "text": "ЗАДАНИЕ",
+        "title_break_before": false,
+        "block_start_idx": 38,
+        "block_break_before": false
+      },
+      {
+        "idx": 66,
+        "text": "ДНЕВНИК",
+        "title_break_before": false,
+        "block_start_idx": 63,
+        "block_break_before": false
+      },
+      {
+        "idx": 81,
+        "text": "АТТЕСТАЦИОННЫЙ ЛИСТ",
+        "title_break_before": false,
+        "block_start_idx": 77,
+        "block_break_before": false
+      },
+      {
+        "idx": 100,
+        "text": "ХАРАКТЕРИСТИКА",
+        "title_break_before": false,
+        "block_start_idx": 97,
+        "block_break_before": false
+      },
+      {
+        "idx": 125,
+        "text": "ОТЧЕТ",
+        "title_break_before": false,
+        "block_start_idx": 122,
+        "block_break_before": false
+      }
+    ],
+    "direct_marks_sample": [
+      {
+        "p": 0,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "«",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "Хекслет колледж",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "»",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 7,
+        "text": "ОТЧЕТНАЯ ДОКУМЕНТАЦИЯ",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "по учебной практике ПМ",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "02",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "АНПОО",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "«",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "Хекслет колледж",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "»",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 14,
+        "text": "(",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 14,
+        "text": "наименование)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "190020",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": ",",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "г. Санкт-Петербург, Рижский проспект, дом",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "№",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "8",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": ",",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "литер А",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 16,
+        "text": "(",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 16,
+        "text": "адрес)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 17,
+        "text": "Руководитель практики от образовательной организации",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 19,
+        "text": "(",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 19,
+        "text": "ФИО)                            (подпись)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 38,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 39,
+        "text": "«",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 39,
+        "text": "Хекслет колледж",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 39,
+        "text": "»",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 41,
+        "text": "ЗАДАНИЕ",
+        "marks": [
+          "bold"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "PM11_source",
+    "path": "C:\\Users\\freezemyself\\Desktop\\3-course-final-project\\.docx-audit\\PM11_source.docx",
+    "paragraphs": 153,
+    "tables": 9,
+    "sections": 0,
+    "sectPr_count": 0,
+    "pgSz": {},
+    "pgMar": {},
+    "xml_counts": {
+      "highlight": 0,
+      "shading": 780,
+      "trHeight": 64,
+      "caps": 0,
+      "smallCaps": 0
+    },
+    "styles_counts": {
+      "highlight": 0,
+      "shading": 0
+    },
+    "major": [
+      {
+        "idx": 40,
+        "text": "ЗАДАНИЕ",
+        "title_break_before": false,
+        "block_start_idx": 37,
+        "block_break_before": false
+      },
+      {
+        "idx": 66,
+        "text": "ДНЕВНИК",
+        "title_break_before": false,
+        "block_start_idx": 63,
+        "block_break_before": false
+      },
+      {
+        "idx": 81,
+        "text": "АТТЕСТАЦИОННЫЙ ЛИСТ",
+        "title_break_before": false,
+        "block_start_idx": 77,
+        "block_break_before": false
+      },
+      {
+        "idx": 101,
+        "text": "ХАРАКТЕРИСТИКА",
+        "title_break_before": false,
+        "block_start_idx": 98,
+        "block_break_before": false
+      },
+      {
+        "idx": 123,
+        "text": "ОТЧЕТ",
+        "title_break_before": false,
+        "block_start_idx": 120,
+        "block_break_before": false
+      }
+    ],
+    "direct_marks_sample": [
+      {
+        "p": 0,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "«",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "Хекслет колледж",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "»",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 7,
+        "text": "ОТЧЕТНАЯ ДОКУМЕНТАЦИЯ",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "по учебной практике ПМ",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "11",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "АНПОО",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "«",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "Хекслет колледж",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "»",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 14,
+        "text": "(",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 14,
+        "text": "наименование)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "190020",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": ",",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "г. Санкт-Петербург, Рижский проспект, дом",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "№",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "8",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": ",",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "литер А",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 16,
+        "text": "(",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 16,
+        "text": "адрес)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 17,
+        "text": "Руководитель практики от образовательной организации",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 19,
+        "text": "(",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 19,
+        "text": "ФИО)                            (подпись)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 37,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 38,
+        "text": "«",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 38,
+        "text": "Хекслет колледж",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 38,
+        "text": "»",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 40,
+        "text": "ЗАДАНИЕ",
+        "marks": [
+          "bold"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "PM11_org_sample",
+    "path": "C:\\Users\\freezemyself\\Desktop\\3-course-final-project\\.docx-audit\\PM11_org_sample.docx",
+    "paragraphs": 135,
+    "tables": 10,
+    "sections": 1,
+    "sectPr_count": 1,
+    "pgSz": {
+      "w": "11906",
+      "h": "16838",
+      "orient": "portrait"
+    },
+    "pgMar": {
+      "top": "1134",
+      "right": "850",
+      "bottom": "1134",
+      "left": "1701",
+      "header": "720",
+      "footer": "720",
+      "gutter": "0"
+    },
+    "xml_counts": {
+      "highlight": 0,
+      "shading": 61,
+      "trHeight": 24,
+      "caps": 0,
+      "smallCaps": 0
+    },
+    "styles_counts": {
+      "highlight": 0,
+      "shading": 440
+    },
+    "major": [
+      {
+        "idx": 39,
+        "text": "ЗАДАНИЕ",
+        "title_break_before": false,
+        "block_start_idx": 36,
+        "block_break_before": true
+      },
+      {
+        "idx": 64,
+        "text": "ДНЕВНИК",
+        "title_break_before": false,
+        "block_start_idx": 61,
+        "block_break_before": true
+      },
+      {
+        "idx": 97,
+        "text": "ХАРАКТЕРИСТИКА",
+        "title_break_before": false,
+        "block_start_idx": 94,
+        "block_break_before": true
+      },
+      {
+        "idx": 118,
+        "text": "ОТЧЕТ",
+        "title_break_before": false,
+        "block_start_idx": 115,
+        "block_break_before": true
+      }
+    ],
+    "direct_marks_sample": [
+      {
+        "p": 0,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 1,
+        "text": "«Хекслет колледж»",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 7,
+        "text": "ОТЧЕТНАЯ ДОКУМЕНТАЦИЯ",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "по",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "учебной",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 8,
+        "text": "практике ПМ11",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 13,
+        "text": "АНПОО «Хекслет колледж»",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 14,
+        "text": "(наименование)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 15,
+        "text": "190020, г. Санкт-Петербург, Рижский проспект, дом № 8, литер А",
+        "marks": [
+          "underline",
+          "color=000000"
+        ]
+      },
+      {
+        "p": 16,
+        "text": "(адрес)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 17,
+        "text": "Руководитель практики от образовательной организации",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 19,
+        "text": "(ФИО)                            (подпись)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 36,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 37,
+        "text": "«Хекслет колледж»",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 39,
+        "text": "ЗАДАНИЕ",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 40,
+        "text": "на",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 40,
+        "text": "учебную",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 40,
+        "text": "практику ПМ11",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 43,
+        "text": "Разработка, администрирование и защита баз данных",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 46,
+        "text": "Осуществлять сбор, обработку и анализ информации для проектирования баз данных",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 47,
+        "text": "Проектировать базу данных на основе анализа предметной области",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 48,
+        "text": "Разрабатывать объекты базы данных в соответствии с результатами анализа предметн",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 49,
+        "text": "Реализовывать базу данных в конкретной системе управления базами данных",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 50,
+        "text": "Администрировать базы данных.",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 51,
+        "text": "Защищать информацию в базе данных с использованием технологии защиты информации.",
+        "marks": [
+          "color=000000"
+        ]
+      },
+      {
+        "p": 54,
+        "text": "Руководитель практики от образовательной организации",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 56,
+        "text": "(ФИО)                            (подпись)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 59,
+        "text": "(подпись обучающегося)",
+        "marks": [
+          "italic"
+        ]
+      },
+      {
+        "p": 61,
+        "text": "Автономная некоммерческая профессиональная образовательная организация",
+        "marks": [
+          "bold"
+        ]
+      },
+      {
+        "p": 62,
+        "text": "«Хекслет колледж»",
+        "marks": [
+          "bold"
+        ]
+      }
+    ]
+  }
+]
